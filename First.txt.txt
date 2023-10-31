@@ -1,1 +1,3 @@
 Hello Git
+Today is Tuesday
+time is 19.15now
